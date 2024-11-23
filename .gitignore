@@ -1,4 +1,5 @@
-*./.env
-*./build
-*./idea
-*./node_modules
+./*/.env
+./*/build/
+.idea
+./*/idea/
+./*/node_modules/
